@@ -1,0 +1,26 @@
+.basicView {
+    background-color: black;
+    color: white;
+    height: 120px;
+}
+
+.basicView h1{
+    line-height: 120px;
+}
+
+.copyright {
+
+}
+
+.address {
+    height: 60px;
+}
+
+.address span{
+    line-height: 60px
+}
+
+#clockBox{
+    text-align: center;
+
+}
